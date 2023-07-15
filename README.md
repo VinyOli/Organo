@@ -1,7 +1,7 @@
 
 # Organo
 
-Organo é um projeto com destino de aprendizado do framework/lib REACT
+Organo é um projeto com destinado ao aprendizado do framework/lib REACT
 
 
 ## Autores
