@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.title {
+  font-family: "Prata", serif;
+}
+
+.button {
+  margin-top: 8px;
+  background-color: #6278f7;
+  padding: 12px;
+  color: #f2f2f2;
+  font-family: "Montserrat", sans-serif;
+  font-size: large;
+  border: none;
+  border-radius: 5px;
+  transition: 0.2s;
+}
+
+.button:hover {
+  background-color: #5166db;
+  cursor: pointer;
+}
