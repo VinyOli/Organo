@@ -1,6 +1,6 @@
 import "./App.css";
 import Banner from "./components/banner/banner";
-import FormHomePage from "./components/input-home-page/inputHomePage";
+import FormSquare from "./components/form-square/form-square";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
         <Banner></Banner>
       </header>
       <main>
-        <FormHomePage></FormHomePage>
+        <FormSquare></FormSquare>
       </main>
       <footer>
         Developed by{" "}

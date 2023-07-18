@@ -1,0 +1,16 @@
+.input-section {
+  .input-section__box {
+    width: 98%;
+    padding: 24px;
+    padding-right: 0;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.05) 2px 6px 5px;
+    outline: none;
+    border: none;
+    margin-top: 8px;
+    margin-bottom: 20px;
+  }
+  .input-section__text-label {
+    font-weight: bolder;
+  }
+}
