@@ -1,0 +1,13 @@
+.form-square {
+  padding: 12px 64px 12px 64px;
+  margin: 0 auto;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  width: 50%;
+  text-align: start;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.3) 3px 3px 8px;
+}

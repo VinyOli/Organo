@@ -10,11 +10,17 @@ code {
     monospace;
 }
 
-.title {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Prata", serif;
 }
 
-.button {
+button {
+  font-weight: bolder;
   margin-top: 8px;
   background-color: #6278f7;
   padding: 12px;
@@ -23,10 +29,20 @@ code {
   font-size: large;
   border: none;
   border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.2) 2px 4px 6px;
   transition: 0.2s;
 }
 
-.button:hover {
+button:hover {
   background-color: #5166db;
   cursor: pointer;
+}
+
+button:active {
+  background-color: #6278f7;
+}
+
+button:focus {
+  border: none;
+  outline: none;
 }
